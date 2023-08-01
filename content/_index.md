@@ -52,7 +52,7 @@ sections:
             #  * Analysing
              # * Modelling
               # * Deploying
-        - title: Data analyst
+        - title: Project information manager
           company: Telematel
           company_url: ''
           company_logo: 'logo_telematel'
