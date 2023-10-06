@@ -21,12 +21,12 @@ marketing:
     description: 'Luis Remiro personal webpage.'
     twitter: 'luismremiro'
   analytics:
-    google_analytics: ''
+    google_analytics: 'luisremiro'
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: 'luisremiro'
     microsoft_clarity: ''  
   verification:
-    google: ''
+    google: 'google-site-verification=-mbzj3-aZvZ8jJUE0MmRBuDGN5XwOp2KPHKjhwzmNIs'
     baidu: ''
 
 # Site header
