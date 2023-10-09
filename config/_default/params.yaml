@@ -21,9 +21,9 @@ marketing:
     description: 'Luis Remiro personal webpage.'
     twitter: 'luismremiro'
   analytics:
-    google_analytics: 'luisremiro'
+    google_analytics: 'GTM-5D9FT42J'
     baidu_tongji: ''
-    google_tag_manager: 'luisremiro'
+    google_tag_manager: 'GTM-5D9FT42J'
     microsoft_clarity: ''  
   verification:
     google: 'google-site-verification=-mbzj3-aZvZ8jJUE0MmRBuDGN5XwOp2KPHKjhwzmNIs'
