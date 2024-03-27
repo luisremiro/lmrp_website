@@ -101,7 +101,7 @@ sections:
       title: Other publications
       filters:
         folders:
-          - publication
+          - outreach
         featured_only: true
     design:
       columns: '2'
