@@ -27,6 +27,32 @@ sections:
         #  description: 10%
           icon: check-to-slot
           icon_pack: fas
+  - block: collection
+    id: publications
+    content:
+      title: Peer-Reviewed Publications
+      #text: |-
+       # {{% callout note %}}
+        #Quickly discover relevant content by [filtering publications](./publication/).
+        #{{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    id: featured
+    content:
+      title: Other publications
+      filters:
+        folders:
+          - outreach
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: experience
     content:
       title: Experience
@@ -80,36 +106,10 @@ sections:
               * Data visualization
     design:
       columns: '2'
-  - block: collection
-    id: publications
-    content:
-      title: Peer-Reviewed Publications
-      #text: |-
-       # {{% callout note %}}
-        #Quickly discover relevant content by [filtering publications](./publication/).
-        #{{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: featured
-    content:
-      title: Other publications
-      filters:
-        folders:
-          - outreach
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contact me
       subtitle:
       text: |-
         Please, fell free to contact me for more information
