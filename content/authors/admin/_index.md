@@ -22,7 +22,7 @@ last_name: Remiro
 organizations:
 - name: University of Barcelona
   url: https://www.ub.edu/
-role: PhD candidate in Political Science
+role: Postdoctoral Fellow
 social:
 - icon: envelope
   icon_pack: fas
