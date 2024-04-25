@@ -51,8 +51,8 @@ superuser: true
 title: Luis Remiro
 ---
 
-I am a Ph.D. candidate in the Department of Political Science at the University of Barcelona. My undergraduate studies are in Political Science and Administration with a specialization in International Relations at the Universidad Central de Venezuela. My main research interests are political behavior and quantitative research methods. Specifically, I focus on affective polarization and voters' attitudes towards institutions. My thesis focuses on which institutional and individual factors drive affective polarization and examine how these polarization dynamics may be problematic for the quality of contemporary liberal democracies.
+I am a Postdoctoral researcher at the Department of Political Science at the University of Barcelona. My undergraduate studies are in Political Science and Administration with a specialization in International Relations at the Universidad Central de Venezuela. My main research interests are political behavior and quantitative research methods. Specifically, I focus on affective polarization and voters' attitudes towards institutions. 
+
+My dissertation focused on the factors driving affective polarization in Latin America, specifically examining elite behavior, the role of leaders in shaping political identities, and how democratic backsliding can drive affective polarization.
 {style="text-align: justify;"}
 
-*Note: this web page was created with the open source Wowchemy Website Builder using RStudio. It is still a work in progress which I will update regularly.*
-{style="text-align: justify;"}
