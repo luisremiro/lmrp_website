@@ -55,7 +55,7 @@ sections:
       view: card
   - block: experience
     content:
-      title: Experience
+      title: Academic experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -65,45 +65,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoctoral researcher
+          company: Universitat Pompeu Fabra
+          company_url: ''
+          company_logo: ''
+          location: Barcelona
+          date_start: '2025-02-03'
+          date_end: ''
+        - title: Postdoctoral researcher
+          company: Universitat de Barcelona
+          company_url: ''
+          company_logo: Logotip_UB
+          location: Barcelona
+          date_start: '2024-04-14'
+          date_end: '2025-01-31'
         - title: Ph.D. researcher
           company: Universitat de Barcelona
           company_url: ''
           company_logo: Logotip_UB
           location: Barcelona
           date_start: '2021-09-01'
-          date_end: ''
+          date_end: '2024-04-17'
           #description: |2-
            #   Responsibilities include:
 
             #  * Analysing
              # * Modelling
               # * Deploying
-        - title: Project information manager
-          company: Telematel
-          company_url: ''
-          company_logo: 'logo_telematel'
-          location: Barcelona
-          date_start: '2021-02-01'
-          date_end: '2021-08-31'
-          description: |2-
-              Responsibilities include:
-
-              * Data analysis
-              * Data management
-              * Project management
-        - title: Data analyst
-          company: Agencia Catalana de Turisme
-          company_url: 'https://act.gencat.cat/'
-          company_logo: ''
-          location: Barcelona
-          date_start: '2020-04-01'
-          date_end: '2021-01-31'
-          description: |2-
-              Responsibilities include:
-
-              * Data analysis
-              * Public policy design
-              * Data visualization
     design:
       columns: '2'
   - block: contact
@@ -114,7 +102,7 @@ sections:
       text: |-
         Please, fell free to contact me for more information
       # Contact (add or remove contact options as necessary)
-      email: lremiro@ub.edu
+      email: luis.remiro@upf.edu
     #  phone: 888 888 88 88
     #  appointment_url: 'https://calendly.com'
       address:
