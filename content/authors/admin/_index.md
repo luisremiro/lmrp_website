@@ -44,7 +44,7 @@ social:
   link: https://www.linkedin.com/in/luis-miguel-remiro-pernia/
 - icon: cv
   icon_pack: ai
-  link: public/uploads/CV_LR.pdf
+  link: static/uploads/CV_LR.pdf
 status:
   icon: ☕️
 superuser: true
