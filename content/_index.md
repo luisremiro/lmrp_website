@@ -42,17 +42,17 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: featured
-    content:
-      title: Other publications
-      filters:
-        folders:
-          - outreach
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+ # - block: collection
+  #  id: featured
+  #  content:
+   #   title: Other publications
+    #  filters:
+     #   folders:
+      #    - outreach
+       # featured_only: true
+  #  design:
+   #   columns: '2'
+    #  view: card
   - block: experience
     content:
       title: Academic experience
@@ -106,10 +106,10 @@ sections:
     #  phone: 888 888 88 88
     #  appointment_url: 'https://calendly.com'
       address:
-        street: Av. Diagonal, 684
+        # street:
         city: Barcelona
         region: Catalonia
-        postcode: '08034'
+        # postcode:
         country: Spain
         country_code: ES
       contact_links:
