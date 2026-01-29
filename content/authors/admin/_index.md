@@ -20,7 +20,7 @@ interests:
 - Quantitative methods
 last_name: Remiro
 organizations:
-- name: Universitat Pompeu Fabra
+- name: Universitat Autònoma de Barcelona
   url: https://www.upf.edu/web/politiques/
 role: Postdoctoral Fellow
 social:
@@ -44,15 +44,15 @@ social:
   link: https://www.linkedin.com/in/luis-miguel-remiro-pernia/
 - icon: cv
   icon_pack: ai
-  link: uploads/CV_LR.pdf
+  link: static/uploads/CV_LR.pdf
 status:
   icon: ☕️
 superuser: true
 title: Luis Remiro
 ---
 
-I am a Postdoctoral researcher at [COVIDEU Project](https://sites.google.com/view/covideuproject/home) at Universitat Pompeu Fabra (UPF). My undergraduate studies are in Political Science and Administration with a specialization in International Relations at the Universidad Central de Venezuela. My main research interests are political behavior and quantitative research methods. Specifically, I focus on affective polarization and voters' attitudes towards institutions. 
+I am a Juan de la Cierva Research Fellow at Department of Political Science in the Universitat Autònoma de Barcelona. Previously, I was part of the [COVIDEU Project](https://sites.google.com/view/covideuproject/home) at Universitat Pompeu Fabra (UPF). My main research interests are political behavior and quantitative research methods. Specifically, I focus on affective polarization and voters' attitudes towards institutions. 
 
-I defended my dissertation, entitled [*Patterns of individual and elite affective polarisation in Latin America*](https://www.tdx.cat/handle/10803/691045), at the Universitat de Barcelona in 2024. My dissertation focused on the factors driving affective polarization in Latin America, specifically examining elite behavior, the role of leaders in shaping political identities, and how democratic backsliding can drive affective polarization.
+I completed my dissertation, [*Patterns of individual and elite affective polarisation in Latin America*](https://www.tdx.cat/handle/10803/691045), in 2024 at the Universitat de Barcelona in 2024. My dissertation focused on the factors driving affective polarization in Latin America, specifically examining elite behavior, the role of leaders in shaping political identities, and how democratic backsliding can drive affective polarization.
 {style="text-align: justify;"}
 

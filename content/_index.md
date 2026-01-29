@@ -42,17 +42,17 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: featured
-    content:
-      title: Other publications
-      filters:
-        folders:
-          - outreach
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+ # - block: collection
+  #  id: featured
+  #  content:
+   #   title: Other publications
+    #  filters:
+     #   folders:
+      #    - outreach
+       # featured_only: true
+  #  design:
+   #   columns: '2'
+    #  view: card
   - block: experience
     content:
       title: Academic experience
@@ -65,13 +65,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Juan de la Cierva fellow
+          company: Universitat Autònoma de Barcelona
+          company_url: ''
+          company_logo: ''
+          location: Barcelona
+          date_start: '2026-01-01'
+          date_end: ''
         - title: Postdoctoral researcher
           company: Universitat Pompeu Fabra
           company_url: ''
           company_logo: ''
           location: Barcelona
           date_start: '2025-02-03'
-          date_end: ''
+          date_end: '2025-12-31'
         - title: Postdoctoral researcher
           company: Universitat de Barcelona
           company_url: ''
@@ -102,14 +109,14 @@ sections:
       text: |-
         Please, fell free to contact me for more information
       # Contact (add or remove contact options as necessary)
-      email: luis.remiro@upf.edu
+      email: luis.remiro@uab.cat
     #  phone: 888 888 88 88
     #  appointment_url: 'https://calendly.com'
       address:
-        street: Av. Diagonal, 684
+        # street:
         city: Barcelona
         region: Catalonia
-        postcode: '08034'
+        # postcode:
         country: Spain
         country_code: ES
       contact_links:
