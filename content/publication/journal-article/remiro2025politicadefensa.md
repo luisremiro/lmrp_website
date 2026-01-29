@@ -1,0 +1,35 @@
+---
+title: "Construcción de la Política de Defensa en España: El impacto de la opinión pública y las elites en la formación de la agenda"
+authors:
+- admin
+- R. Martínez
+- A. Bueno
+- M. Duran
+date: "2025-01-05T00:00:00Z"
+doi: ""
+
+# Publication type: 6 = Book chapter
+publication_types:
+- "6"
+
+publication: "In: Duran, M. and Martinez, R. (eds) *Repensando el papel de las fuerzas armadas españolas ante los nuevos desafíos a la seguridad*. Centro de Estudios Políticos y Constitucionales. **ISBN: 978-84-259-2078-3**."
+publication_short: ""
+
+abstract: ""
+summary: ""
+
+tags: []
+categories: []
+featured: false
+
+url_pdf: "https://www.researchgate.net/publication/398729453_Construccion_de_la_politica_de_Defensa_en_Espana_El_impacto_de_la_opinion_publica_y_las_elites_en_la_formacion_de_la_agenda#fullTextFileContent"
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+
+projects: []
+---
