@@ -1,0 +1,27 @@
+---
+title: "¿Unidos en la diversidad? Un modelo para medir la cultura política de defensa en Europa"
+authors:
+- A. Bueno
+- admin
+date: "2024-09-01T00:00:00Z"
+doi: "10.24241/rcai.2024.137.2.89"
+
+publication_types:
+- "2"
+
+publication: "*Revista CIDOB d’Afers Internacionals*, (137), 89-114"
+
+abstract: "La evolución de la Política Común de Seguridad y Defensa (PCSD) de la Unión Europea (UE) cuestiona si las sociedades de los estados miembros comparten una cultura de defensa común o convergente. Sin embargo, problemas conceptuales y metodológicos identificados en la literatura existente dificultan la medición de este fenómeno. Por ello, este artículo propone un nuevo modelo para medir la cultura política de defensa europea a partir de un análisis factorial mixto. Además, con base en diversos eurobarómetros, describe las actitudes actuales de la ciudadanía europea hacia la defensa y el impacto de la guerra en Ucrania. Las conclusiones apuntan, por un lado, a la existencia de diversas subculturas políticas de defensa dentro de la UE; y, por el otro, a varias fortalezas metodológicas, pero también limitaciones, a causa de los datos de los eurobarómetros disponibles."
+
+summary: "Este artículo propone un nuevo modelo para medir la cultura política de defensa europea mediante un análisis factorial mixto y datos del Eurobarómetro."
+
+tags:
+- Cultura política
+- Defensa
+- Unión Europea
+- Eurobarómetro
+- Análisis factorial exploratorio
+featured: false
+
+url_pdf: "https://www.cidob.org/es/articulos/revista_cidob_d_afers_internacionals/137/unidos_en_la_diversidad_un_modelo_para_medir_la_cultura_politica_de_defensa_en_europa"
+---
