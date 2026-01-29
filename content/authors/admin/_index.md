@@ -53,6 +53,6 @@ title: Luis Remiro
 
 I am a Juan de la Cierva Research Fellow at Department of Political Science in the Universitat Autònoma de Barcelona. Previously, I was part of the [COVIDEU Project](https://sites.google.com/view/covideuproject/home) at Universitat Pompeu Fabra (UPF). My main research interests are political behavior and quantitative research methods. Specifically, I focus on affective polarization and voters' attitudes towards institutions. 
 
-I completed my dissertation, [*Patterns of individual and elite affective polarisation in Latin America*](https://www.tdx.cat/handle/10803/691045), in 2024 at the Universitat de Barcelona in 2024. My dissertation focused on the factors driving affective polarization in Latin America, specifically examining elite behavior, the role of leaders in shaping political identities, and how democratic backsliding can drive affective polarization.
+I completed my dissertation, [*Patterns of individual and elite affective polarisation in Latin America*](https://www.tdx.cat/handle/10803/691045), in 2024 at Universitat de Barcelona. My dissertation focused on the factors driving affective polarization in Latin America, specifically examining elite behavior, the role of leaders in shaping political identities, and how democratic backsliding can drive affective polarization.
 {style="text-align: justify;"}
 
